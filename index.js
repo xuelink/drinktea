@@ -6,6 +6,6 @@ const rl = readline.createInterface({
 });
 
 rl.question("Please enter tea name: ", (answer) => {
-  console.log(`You are drinking ${answer} tea. Enjoy!`);
+  console.log(`You are drinking ${answer} tea. Enjoy! ☕️`);
   rl.close();
 });
