@@ -1,6 +1,6 @@
 {
   "name": "drinktea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Press any key to drink tea",
   "main": "index.js",
   "scripts": {
