@@ -1,11 +1,11 @@
-const readline = require('readline');
+const readline = require("readline");
 
 const rl = readline.createInterface({
   input: process.stdin,
-  output: process.stdout
+  output: process.stdout,
 });
 
-rl.question('Please enter something: ', (answer) => {
-  console.log(`You entered: ${answer}`);
+rl.question("Please enter tea name: ", (answer) => {
+  console.log(`You are drinking ${answer} tea. Enjoy!`);
   rl.close();
 });
