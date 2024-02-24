@@ -1,28 +1,46 @@
 # Drink Tea CLI 🍵
 
-This is a simple Node.js command line application that asks for your tea preference and acknowledges it with a warm message.
+Welcome to Drink Tea CLI, a delightful Node.js command line application that enhances your tea time. It's simple, interactive, and fun!
+
+## 🌟 Features
+
+- Interactive CLI
+- Asks for your tea preference
+- Acknowledges your choice with a warm message
+
+## 🚀 Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- Node.js installed on your machine
+- npm (comes with Node.js)
 
 ## Installation
 
-To install the application, first clone the repository:
+1. Install the package globally using npm:
 
 ```bash
-npm i drinktea
+npm i -g drinktea
 ```
 
-Then navigate into the project directory and install the dependencies:
+2. Verify the installation:
 
 ```bash
-npm i
+drinktea --version
 ```
 
-## Usage
-To run the application, use the following command:
+## 🎈 Usage
+
+1. Run the application:
 
 ```bash
-node index.js
+drinktea
 ```
 
-You will be prompted to enter your tea name. After you enter it, the application will print a message acknowledging your tea preference.
+2. You will be prompted to enter your tea name. Type in your favorite tea and hit enter.
+
+3. The application will print a message acknowledging your tea preference.
 
 Enjoy your tea time! ☕️
