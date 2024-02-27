@@ -1,15 +1,23 @@
 {
   "name": "drinktea",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A delightful Node.js command line application that enhances your tea time.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/behics/drinktea.git"
+  },
   "bin": {
     "drinktea": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "tea", "drinktea"],
+  "keywords": [
+    "cli",
+    "tea",
+    "drinktea"
+  ],
   "author": "behics",
   "license": "MIT",
   "dependencies": {
