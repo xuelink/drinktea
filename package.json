@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/behics/drinktea.git"
+    "url": "https://github.com/xuelink/drinktea.git"
   },
   "bin": {
     "drinktea": "./index.js"
