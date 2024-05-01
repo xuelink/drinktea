@@ -21,6 +21,7 @@
   "author": "behics",
   "license": "MIT",
   "dependencies": {
+    "@langx/capacitor-voice-recorder": "^6.0.5",
     "appwrite": "^14.0.0",
     "eslint": "^8.57.0",
     "languagexchange": "^0.7.3",
